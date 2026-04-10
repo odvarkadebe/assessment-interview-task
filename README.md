@@ -69,7 +69,7 @@ You should see the Assessment Results interface with pre-loaded data.
 Choose the appropriate task based on your role:
 
 - **Backend/Full-Stack Role:** Complete [TASK_FULL_STACK.md](TASK_FULL_STACK.md)
-- **Frontend Role:** Complete [TASK_FRONTEND.md](TASK_FRONTEND.md)
+- **Frontend Role:** Complete (Ignore this one) [TASK_FRONTEND.md](TASK_FRONTEND.md)
 
 ### What to Do
 
